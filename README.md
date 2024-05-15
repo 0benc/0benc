@@ -3,7 +3,9 @@
 <img src="./images/tux-linux-penguin.gif" alt="benc" width="110" height="110"/>
 </div>
 
-My name is **Omar** also known as _"benc"_, and I'm a **Junior Software Developer** based in Barcelona. At the moment, I'm studying a higher level education in software development at [Nicolau Copèrnic Institute](https://www.copernic.cat/).
+My name is **Omar** also known as _"benc"_, and I'm a **Junior Software Developer** based in Barcelona.
+
+At the moment, I'm studying a higher level education in software development at [Nicolau Copèrnic Institute](https://www.copernic.cat/).
 
 
 
